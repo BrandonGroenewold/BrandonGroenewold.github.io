@@ -1,6 +1,4 @@
-# Portfolio one page template - ARCHIVED
-
-Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax).
+# Brandon Groenewold Portfolio Website
 
 Demo: [http://website-templates.github.io/portfolio_one-page-template](http://website-templates.github.io/portfolio_one-page-template/)
 
@@ -183,6 +181,8 @@ Run server without watching for changes.
 Gulp: `gulp server`
 
 * Run BrowserSync static server
+
+Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax).
 
 
 ## Live reload
